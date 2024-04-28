@@ -1,10 +1,10 @@
 # Tic-Tac-Toe-Game
 
-##Description
+## Description
 
 This project is a simple Tic Tac Toe game implemented using Windows Forms in C#. It allows players to play against each other in a two-player mode and against the computer in a single-player mode.
 
-##Features
+## Features
 
 Two modes: Player vs Player and Player vs Computer.
 
