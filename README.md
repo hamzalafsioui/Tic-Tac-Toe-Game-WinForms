@@ -25,4 +25,4 @@ This project is a simple Tic Tac Toe game implemented using Windows Forms in C#.
 * 5-Follow on-screen instructions to play the game.
 
 ## Contributions
-Contributions are welcome! If you'd like to contribute to the project, feel free to fork the repository and submit a pull request.
+* Feel free to contribute to this project by providing feedback, suggesting new features, or submitting pull requests. contact us at hamzalafsioui@gmail.com
